@@ -1,7 +1,7 @@
 // client-side js
 // run by the browser each time your view template referencing it is loaded
 
-console.log("hello world :o");
+console.log("hello world!!!");
 const dreams = [];
 
 // define variables that reference elements on our page
